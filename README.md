@@ -33,5 +33,9 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 </div>
 
-<img align="right" src="https://github.com/minhdev4192/MINH-DEV/blob/main/Assets/spinner.svg?raw=true" />
+ 
+<div align="right">
   
+<img align="right" src="https://github.com/minhdev4192/MINH-DEV/blob/main/Assets/spinner.svg?raw=true" />![](https://komarev.com/ghpvc/?username=minhdev4192&color=yellow)
+
+</div>
