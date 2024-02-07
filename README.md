@@ -6,7 +6,7 @@
 
 <p align="left"> 
   <ul>
-    <li>📘 &nbsp; I’m currently working on Vietsovpreto </li>
+    <li>📘 &nbsp; I’m currently working on Vietsovpetro </li>
     <li>💻 &nbsp; Current Public Project: Fivem Server </li>
     <li>📍  &nbsp; Living in VietNam </li>
   </ul>
