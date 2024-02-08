@@ -55,8 +55,8 @@ _Note: Top languages is only a metric of the languages my public code consists o
 <br>
 
 ## Connect with me:
-<p align="left">
 
+<p align="left">
 <a href = "https://www.facebook.com/minh.4192?locale=vi_VN"><img width="100" height="100" src="https://img.icons8.com/bubbles/100/facebook-new.png" alt="facebook-new"/></a> <a href = "https://www.minhld.dr@gmail.com"><img width="100" height="100" src="https://img.icons8.com/bubbles/100/gmail-new.png" alt="gmail-new"/></a>
 
 </p>
