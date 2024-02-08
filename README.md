@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/minhdev4192)**
 
-- 📫 How to reach me **minhld - Discord**
+- 📫 How to reach me **[My Gmail](https://minhld.dr@gmail.com)**
 
 - ⚡ Fun fact **Coding - Sleeping - Studying - Gym**
 
