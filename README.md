@@ -39,7 +39,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/minhddev4192/github-readme-stats"><img alt="MinhDEV41 Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhdev4192&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/minhdev4192/github-readme-stats"><img alt="MinhDEV41 Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhdev4192&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/minhdev4192/github-readme-stats"><img alt="MinhDEV41's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhdev4192&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   <br/>
