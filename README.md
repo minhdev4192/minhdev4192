@@ -63,7 +63,7 @@ _Note: Top languages is only a metric of the languages my public code consists o
 
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/minhdev4192/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=minhdev4192&color=yellow">
-</a>
-<a href="https://github.com/minhdev4192?tab=followers"><img src="https://img.shields.io/github/followers/minhdev4192?label=Followers&style=social" alt="GitHub Badge"></a>
+</a><a href="https://github.com/minhdev4192?tab=followers"><img src="https://img.shields.io/github/followers/minhdev4192?label=Followers&style=social" alt="GitHub Badge"></a>
